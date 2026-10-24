@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://github.com/ZohaibMurtaza-01">
-  <img src="https://img.shields.io/badge/GitHub-ZohaibMurtaza--804-0A192F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/GitHub-ZohaibMurtaza--01-0A192F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub badge" />
 </a>
 
 </div>
